@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chief Rabinate Of Moscow</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="news">Лента новостей</string>
+    <string name="events">Мероприятия</string>
+    <string name="learn">Учим Тору</string>
+    <string name="video">Видео</string>
+    <string name="photo">Фото</string>
+    <string name="partners">Наши партнеры</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
